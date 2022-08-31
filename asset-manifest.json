@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newclonne/static/css/main.78c7c615.chunk.css",
+    "main.js": "/newclonne/static/js/main.b1cd4e35.chunk.js",
+    "main.js.map": "/newclonne/static/js/main.b1cd4e35.chunk.js.map",
+    "runtime-main.js": "/newclonne/static/js/runtime-main.f7efa123.js",
+    "runtime-main.js.map": "/newclonne/static/js/runtime-main.f7efa123.js.map",
+    "static/js/2.d302e61b.chunk.js": "/newclonne/static/js/2.d302e61b.chunk.js",
+    "static/js/2.d302e61b.chunk.js.map": "/newclonne/static/js/2.d302e61b.chunk.js.map",
+    "index.html": "/newclonne/index.html",
+    "precache-manifest.9af4a7673611c6e071c1ba86c001a654.js": "/newclonne/precache-manifest.9af4a7673611c6e071c1ba86c001a654.js",
+    "service-worker.js": "/newclonne/service-worker.js",
+    "static/css/main.78c7c615.chunk.css.map": "/newclonne/static/css/main.78c7c615.chunk.css.map",
+    "static/js/2.d302e61b.chunk.js.LICENSE.txt": "/newclonne/static/js/2.d302e61b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7efa123.js",
+    "static/js/2.d302e61b.chunk.js",
+    "static/css/main.78c7c615.chunk.css",
+    "static/js/main.b1cd4e35.chunk.js"
+  ]
+}
